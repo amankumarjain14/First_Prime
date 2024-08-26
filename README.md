@@ -42,7 +42,7 @@ To run the Streamlit app, follow these steps:
 3. Run the following command:
 
     ```bash
-    streamlit run prime_finder.py
+    streamlit run app.py
     ```
 
 4. A new tab will open in your web browser displaying the app interface.
@@ -86,4 +86,4 @@ Contributions are welcome! If you have any suggestions, improvements, or issues,
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact me at [your-email@example.com].
+If you have any questions or need further assistance, please feel free to contact me at [amankumarjain1994@gmail.com].
